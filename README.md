@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 📖 About Me
+Hello my name is Eduardo, welcome to my Github profile.
 <!--
 **RandalfXTW/RandalfXTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
