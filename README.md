@@ -6,3 +6,4 @@ I currently am pursuing my bachelor's degree in computer science at the Universi
 
 # 📞 Contact Info
 Contact me at: guerreroeduardo718@gmail.com
+LinkedIn: 
