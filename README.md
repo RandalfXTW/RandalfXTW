@@ -9,3 +9,6 @@ Contact me at: guerreroeduardo718@gmail.com
 
 LinkedIn: www.linkedin.com/in/eduardo-guerrero-2n
 
+# 🧑‍💻 Programming Languages
+As of right now I don't know any programming languages, but I am interested in three programming languages. The three programming languages I am interested in are Phython, Javascript, and C++.
+
